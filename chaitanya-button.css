@@ -13,13 +13,13 @@ body {
 .custom-box {
   background-color: #006666;
   color: white;
-  padding: 4px 20px;
+  padding: 2px 20px;
   font-size: 17px;
   font-weight: bold;
   display: inline-block;
   position: relative;
   clip-path: polygon(0 0, 100% 0, 90% 100%, 0% 100%);
-  margin: 20px auto;
+  
   
 }
 .test-box {
@@ -55,13 +55,13 @@ body {
 
 .title {
   color: red;
-  font-size: 17px;
+  font-size: 18px;
   font-weight: bold;
   margin-bottom: 1px;
 }
 
 .details {
-  font-size: 12px;
+  font-size: 14px;
   font-weight: bold;
   color: #444;
 }
@@ -69,7 +69,7 @@ body {
 .date {
   color: #006666;
   font-weight: bold;
-  font-size: 12px;
+  font-size: 14px;
 }
 
 .start-btn {
@@ -80,7 +80,7 @@ body {
   padding: 2px 10px;
   border-radius: 16px;
   font-weight: 800;
-  font-size: 13px;
+  font-size: 14px;
   text-decoration: none;
   white-space: nowrap;
   transition: 0.3s;
